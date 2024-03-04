@@ -1,4 +1,13 @@
-### Hi there 👋
+### about me <br>
+
+I'm a Research Fellow in the O'Keefe Lab (SWC), previously I was a PhD student in the Bizley Lab (UCL Ear Institute). I'm most interested in: <br>
+1. applying machine learning techniques to solve neuroscience problems (particularly within spatial navigation and sensory perception)
+2. developing software for neuroscience research, particularly for spike sorting and classification 🧠
+
+Feel free to reach out via [email](mailto:carla.griffiths.16@ucl.ac.uk) if you have any questions about my work or check out my personal site in my profile!
+
+
+   
 
 <!--
 **carlacodes/carlacodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

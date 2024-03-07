@@ -1,7 +1,7 @@
 ### about me <br>
 
 I'm a Research Fellow in the O'Keefe Lab (SWC), previously I was a PhD student in the Bizley Lab (UCL Ear Institute), where I TA-ed for Web Development and Software Engineering within the UCL CS Department. I'm most interested in: <br>
-1. applying machine learning techniques to solve neuroscience problems (particularly w.r.t. spatial navigation and sensory perception)
+1. applying machine learning techniques to solve neuroscience problems (esp. w.r.t. spatial navigation and sensory perception)
 2. developing software for neuroscience research, particularly for spike sorting and classification 🧠
 
 Feel free to reach out via [email](mailto:carla.griffiths.16@ucl.ac.uk) if you have any questions about my work or check out my personal site in my profile!

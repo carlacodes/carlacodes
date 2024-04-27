@@ -1,6 +1,6 @@
 ### about me <br>
 
-I'm a Research Fellow in the O'Keefe Lab (SWC), previously I was a PhD student in the Bizley Lab (UCL Ear Institute), where I TA-ed for Web Development and Software Engineering within the UCL CS Department. I'm most interested in: <br>
+I'm a Research Fellow in the O'Keefe Lab (Sainsbury Wellcome Centre), previously I was a PhD student in the Bizley Lab (UCL Ear Institute), where I TA-ed for Web Development and Software Engineering within the UCL CS Department. I'm most interested in: <br>
 1. applying machine learning techniques to solve neuroscience problems (esp. w.r.t. spatial navigation and sensory perception)
 2. developing software for neuroscience research, particularly for spike sorting and classification 🧠 📊
 
